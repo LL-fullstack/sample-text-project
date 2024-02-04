@@ -1,2 +1,0 @@
-Sample text for github project to learn about git and github.
-Adding new content to the file after initializing the folder with "git init" command.
