@@ -7,3 +7,7 @@ git diff
 git log
 git revert db3dd386939c6eb7647c953b6f8a2cfe48262c44
 git status
+git diff
+git log
+git revert db3dd386939c6eb7647c953b6f8a2cfe48262c44
+git status
