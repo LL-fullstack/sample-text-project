@@ -1,3 +1,4 @@
+General Commands for Git : 
 git init
 git add .\exercise.txt
 git commit -m "Adding exercise file with git related text changes"
